@@ -1,0 +1,20 @@
+def сalculate_sum(a: float,b: float) -> float:
+    result = a + b
+    return result
+
+def сalculate_subtraction(a: float, b: float) -> float:
+    result = a <операция> b
+    return result
+
+def сalculate_division(a: float, b: float) -> float:
+    result = a / b
+    return result
+
+def сalculate_multiplication(a: float, b: float) -> float:
+    result = a * b
+    return result
+
+def сalculate_remainder_division(a: float, b: float) -> float:
+    result = a % b
+    return result
+    
